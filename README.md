@@ -1,8 +1,8 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Crowdfunding*
 
-Submitted by: **Your Name Here**
+Submitted by: **Jesus Bautista**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding* is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **3** hours spent in total
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/JesusJBL/web102_prework/blob/main/Kapture%202025-01-08%20at%2018.37.56.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
